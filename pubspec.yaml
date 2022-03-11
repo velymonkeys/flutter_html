@@ -22,6 +22,7 @@ dependencies:
   video_player: 
     git:
       url: git@github.com:velymonkeys/plugins.git
+      path: packages/video_player/video_player
       ref: video_player_version_change
   chewie: ^1.0.0
 
